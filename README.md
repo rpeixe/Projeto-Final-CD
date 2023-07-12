@@ -4,11 +4,11 @@ Olá! Este é o nosso projeto final da UC de Circuitos Digitais - 2023/1.
 
 Integrantes:
 
-  ➡️ Anna
+  ➡️ Anna Clara Medina Roissmann 
   
-  ➡️ João Pedro
+  ➡️ João Pedro Martins Oliveira
   
-  ➡️ Rodrigo
+  ➡️ Rodrigo Peixe Oliveira
 
 ## Projeto: Pomodoro Timer
 
