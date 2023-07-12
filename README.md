@@ -19,3 +19,5 @@ Recursos:
   ➡️ Display que permite ao usuário digitar o tempo de estudo, descanso e quantidade de ciclos
   
   ➡️ Ao terminar um ciclo(estudo/descanso), um buzzer emite um sinal sonoro, avisando que o tempo acabou
+
+  Clique [aqui](apostila_CD.pdf) para realizar o download da apostila contendo o passo a passo da construção do projeto.
